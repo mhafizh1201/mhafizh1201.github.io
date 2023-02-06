@@ -1,0 +1,22 @@
+.jumbotron {
+  background-color: rgb(155, 208, 233);
+  padding-top: 50px;
+}
+#project {
+  background-color: rgb(155, 208, 233);
+}
+h2 {
+  font-family: Helvetica, Arial, "Helvetica Neue", sans-serif;
+}
+#project-card {
+  margin: 30px;
+}
+footer {
+  background-color: #154c79;
+}
+.contack-me-footer {
+  color: antiquewhite;
+}
+section {
+  padding-top: 60px;
+}
